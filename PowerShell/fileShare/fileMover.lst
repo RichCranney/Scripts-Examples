@@ -1,5 +1,7 @@
+# Column Structure on the next line - Last checked is not required for new files
+# Check Directory | Pattern to check for | Destination to copy to | Last checked (MM/DD/YYYY HH:MM:SS)
 .\Inbound|RichardCranney_*_wanker.txt|C:\Temp\Mellard File Mover\Outbound_1|
-#.\Inbound|RichardCranney_*_wanker_baby.txt|C:\Temp\Mellard File Mover\Outbound_1|05/17/2020 21:58:42
+.\Inbound|RichardCranney_*_wanker_baby.txt|C:\Temp\Mellard File Mover\Outbound_1|05/17/2020 21:58:42
 .\Inbound|RichardCranney_*_tosspot*.txt|C:\Temp\Mellard File Mover\Outbound_3|05/17/2020 21:58:42
 .\Inbound|AndrewMellard_*_wanker.txt|C:\Temp\Mellard File Mover\Outbound_2|05/17/2020 21:58:42
 .\Inbound|AndrewMellard_*_wanker_baby.txt|C:\Temp\Mellard File Mover\Outbound_2|05/17/2020 21:58:42
