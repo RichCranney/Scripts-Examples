@@ -1,0 +1,6 @@
+firstName=Richard
+middleName=James
+surName=Cranney
+address=4 Moulton Chase, Hemsworth. Pontefract. WF9 4DU
+phoneMobile=07751695432
+email=richcranney@googlemail.com
